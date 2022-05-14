@@ -1,0 +1,151 @@
+.lap
+{
+    width:300px;
+    height:300px;
+}
+h1{
+    font-size: 100px;
+    margin-top: 0;
+    font-family: Edwardian Script ITC;
+    color: #66BFBF;
+}
+
+    h2
+{
+    font-family: Bodoni MT Black;
+    color: #11999E;
+    font-weight: normal;
+    line-height: 2;
+}
+h3
+{
+   color:#11999E
+}
+
+
+body{
+    margin:0;
+   
+    font-family: 'Merriweather', serif;
+}
+.top-container
+{
+    margin:0;
+    background-color: #EAF6F6;
+}
+div{
+    text-align: center;
+}
+p
+{
+    font-style: italic;
+}
+.cloud1
+{
+    position: relative;
+    left:400px;
+    top:10px;
+}
+.cloud3
+{
+    position: relative;
+    right:700px;
+    bottom:200px;
+}
+.cloud2
+{ 
+    
+    position: relative;
+    left:50px;
+    
+}
+
+
+
+#ll
+{
+    color: #11999E;
+}
+.skill-row
+{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align:left;
+}
+.he
+{
+   width:20%;
+   float :left;
+   margin-right: 20px;
+
+
+}
+
+.wow
+{
+    width:20%;
+    float :right;
+    margin-left: 20px;
+
+}
+.footer
+{
+    background-color: #66BFBF;
+}
+.bottom-container
+{
+    margin:;
+    background-color: #66BFBF;
+    padding:50px 0 20px;
+}
+hr
+{
+
+    margin: 100px auto;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #DCDCDC;
+    border-width: 10px ;
+    width: 7%;
+
+}
+.logo
+{
+    color:white;
+}
+
+  a{
+      color: #11999E;
+      margin:100px 20px;
+      text-decoration: none;
+  }
+  .btn {
+    background: #e0e0e0;
+    background-image: -webkit-linear-gradient(top, #66BFBF);
+    background-image: -moz-linear-gradient(top, #66BFBF);
+    background-image: -ms-linear-gradient(top, #66BFBF);
+    background-image: -o-linear-gradient(top, #66BFBF);
+    background-image: linear-gradient(to bottom, #66BFBF);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 14px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #badbcd;
+    background-image: -webkit-linear-gradient(top, #badbcd, #5fba82);
+    background-image: -moz-linear-gradient(top, #badbcd, #5fba82);
+    background-image: -ms-linear-gradient(top, #badbcd, #5fba82);
+    background-image: -o-linear-gradient(top, #badbcd, #5fba82);
+    background-image: linear-gradient(to bottom, #badbcd, #5fba82);
+    text-decoration: none;
+  }
+  a:hover
+  {
+      color:#e0e0e0;
+  }
